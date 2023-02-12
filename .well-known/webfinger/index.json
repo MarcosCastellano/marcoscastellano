@@ -1,9 +1,9 @@
 {
-    "subject": "acct:marcoscastellano@marcoscastellano.com",
+    "subject": "acct:marcoscastellano@mastodon.social",
     "aliases": [
         "https://mastodon.social/@marcoscastellano",
         "https://mastodon.social/users/marcoscastellano",
-        "marcoscastellano@marcoscastellano.com"
+        "marcoscastellano@mastodon.social"
     ],
     "links": [
         {
@@ -18,7 +18,7 @@
         },
         {
             "rel": "http://ostatus.org/schema/1.0/subscribe",
-            "template": "https://marcoscastellano.com/authorize_interaction?uri={uri}"
+            "template": "https://mastodon.social/authorize_interaction?uri={uri}"
         }
     ]
 }
