@@ -1,0 +1,24 @@
+{
+    "subject": "acct:marcoscastellano@marcoscastellano.com",
+    "aliases": [
+        "https://mastodon.social/@marcoscastellano",
+        "https://mastodon.social/users/marcoscastellano",
+        "marcoscastellano@marcoscastellano.com"
+    ],
+    "links": [
+        {
+            "rel": "http://webfinger.net/rel/profile-page",
+            "type": "text/html",
+            "href": "https://mastodon.social/@marcoscastellano"
+        },
+        {
+            "rel": "self",
+            "type": "application/activity+json",
+            "href": "https://mastodon.social/users/marcoscastellano"
+        },
+        {
+            "rel": "http://ostatus.org/schema/1.0/subscribe",
+            "template": "https://marcoscastellano.com/authorize_interaction?uri={uri}"
+        }
+    ]
+}
