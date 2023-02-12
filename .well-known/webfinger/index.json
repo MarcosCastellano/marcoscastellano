@@ -1,11 +1,13 @@
 {
     "subject": "acct:marcoscastellano@mastodon.social",
-    "aliases": [
+    "aliases": 
+    [
         "https://mastodon.social/@marcoscastellano",
         "https://mastodon.social/users/marcoscastellano",
         "marcoscastellano@mastodon.social"
     ],
-    "links": [
+    "links": 
+    [
         {
             "rel": "http://webfinger.net/rel/profile-page",
             "type": "text/html",
